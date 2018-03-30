@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">English</string>
+    <string name="button_text">Start</string>
+    <string name="tv_hello_world">hello world!!!</string>
+    <string name="btn_hello_world">Charles Carron-Cabaret</string>
+    <string name="action_settings">Start</string>
+    <string name="edit">Edit</string>
+    <string name="ifroom">ifRoom</string>
+    <string name="delete">Delete</string>
+</resources>
